@@ -1,0 +1,26 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: 0 auto;
+    width: 800px;
+    background-color: #b1a7a6;
+}
+
+.logo{
+    color: #f5f3f4;
+    text-shadow: 2px 2px 2px #ba181b;
+}
+
+.form{
+    background-color: #f5f3f4;
+    padding: 25px;
+    border: 5px solid #e5383b;
+    border-radius: 10px;
+}
+
+#submitBtn {
+    background-color: #e5383b;
+    color: #f5f3f4;
+    width: 100px;
+    margin: 0 auto;
+}
